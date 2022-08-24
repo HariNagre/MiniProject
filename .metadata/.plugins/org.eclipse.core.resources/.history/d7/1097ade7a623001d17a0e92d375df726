@@ -1,0 +1,5 @@
+package com.example.hari.repository;
+
+public interface ContactRepository {
+
+}
